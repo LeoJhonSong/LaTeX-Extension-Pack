@@ -1,0 +1,18 @@
+{
+    "name": "latex-extension-pack",
+    "displayName": "LaTeX Extension Pack",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "LeoJhonSong",
+    "repository": "https://github.com/LeoJhonSong/LaTeX-Extension-Pack",
+    "engines": {
+        "vscode": "^1.31.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "James-Yu.latex-workshop",
+        "nickfode.latex-formatter"
+    ]
+}
