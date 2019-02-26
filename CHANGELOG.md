@@ -4,9 +4,12 @@
 
 ## [Unreleased]
 
+<!-- TODO -->
+
 ### Added
 
 - Add logo.
+- Add Description.
 - Add description of the extensions, for example shields.
 
 ## [Version0.0.1] - 2019-02-27
