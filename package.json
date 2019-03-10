@@ -2,8 +2,9 @@
     "name": "latex-extension-pack",
     "displayName": "LaTeX Extension Pack",
     "description": "",
-    "version": "0.0.1",
+    "version": "0.1.1",
     "publisher": "LeoJhonSong",
+    "icon": "latex-logo.png",
     "repository": "https://github.com/LeoJhonSong/LaTeX-Extension-Pack",
     "engines": {
         "vscode": "^1.31.0"
