@@ -1,8 +1,8 @@
 {
     "name": "latex-extension-pack",
     "displayName": "LaTeX Extension Pack",
-    "description": "",
-    "version": "0.1.1",
+    "description": "Collection of extensions related to LaTeX",
+    "version": "0.1.2",
     "publisher": "LeoJhonSong",
     "icon": "latex-logo.png",
     "repository": "https://github.com/LeoJhonSong/LaTeX-Extension-Pack",
